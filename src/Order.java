@@ -1,6 +1,6 @@
 public class Order {
 
-    private int count = 1;
+    private long count = 1;
 
     public Order() {
     }

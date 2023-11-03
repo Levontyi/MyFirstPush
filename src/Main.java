@@ -4,6 +4,6 @@ public class Main {
         Order order = new Order();
         System.out.println(order);
 
-        System.out.println("Hello");
+        System.out.println("Hello!");
     }
 }
